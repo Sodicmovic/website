@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
-    "tdeploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://Sodicmovic.github.io/website",
+  "homepage": "https://sodicmovic.github.io/website",
   "description": "",
   "dependencies": {
     "gh-pages": "^6.1.1"
