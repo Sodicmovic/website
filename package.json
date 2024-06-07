@@ -1,7 +1,7 @@
 {
-  "name": "practice",
+  "name": "website",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
